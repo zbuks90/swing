@@ -1,0 +1,1 @@
+label1.getText() + t1.getText() + label2.getText() + t2.getText() + label3.getText() + t3.getText() + label4.getText() + combo.getSelectedItem() + male.getSelectedIcon() + female.getSelectedIcon()
